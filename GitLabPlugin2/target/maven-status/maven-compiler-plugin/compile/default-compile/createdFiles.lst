@@ -1,0 +1,8 @@
+dk/itu/sofu/rest/ApplicationConfig.class
+dk/itu/sofu/entity/Author.class
+dk/itu/sofu/db/NeoFacade.class
+dk/itu/sofu/entity/PushEvent.class
+dk/itu/sofu/entity/Entity.class
+dk/itu/sofu/entity/Commit.class
+dk/itu/sofu/rest/EndPoint.class
+dk/itu/sofu/entity/Repository.class
